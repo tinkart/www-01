@@ -9,5 +9,19 @@
         "name": "Admin"
     },
     "items": [
+        {
+            "id": "https://www.tinkart.hu/welcome-to-my-blog.html",
+            "url": "https://www.tinkart.hu/welcome-to-my-blog.html",
+            "title": "Welcome to my blog!",
+            "summary": "Hi and welcome to my blog!",
+            "content_html": "<p>Hi and welcome to my blog!</p>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-10T20:43:24+01:00",
+            "date_modified": "2023-01-10T20:43:24+01:00"
+        }
     ]
 }

@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.tinkart.hu/contact.html",
+            "url": "https://www.tinkart.hu/contact.html",
+            "title": "Contact",
+            "summary": "hello@tinkart.hu",
+            "content_html": "<p>hello@tinkart.hu</p>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-10T20:45:29+01:00",
+            "date_modified": "2023-01-10T20:46:23+01:00"
+        },
+        {
             "id": "https://www.tinkart.hu/welcome-to-my-blog.html",
             "url": "https://www.tinkart.hu/welcome-to-my-blog.html",
             "title": "Welcome to my blog!",

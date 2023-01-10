@@ -3,12 +3,32 @@
     <title>TinkART</title>
     <link href="https://www.tinkart.hu/feed.xml" rel="self" />
     <link href="https://www.tinkart.hu" />
-    <updated>2023-01-10T20:43:24+01:00</updated>
+    <updated>2023-01-10T20:46:23+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://www.tinkart.hu</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://www.tinkart.hu/contact.html"/>
+        <id>https://www.tinkart.hu/contact.html</id>
+
+        <updated>2023-01-10T20:46:23+01:00</updated>
+            <summary>
+                <![CDATA[
+                    hello@tinkart.hu
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hello@tinkart.hu</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome to my blog!</title>
         <author>
